@@ -21,7 +21,9 @@ The search traffic tends to increase during the winter holiday period (weeks 40 
 ![image](https://user-images.githubusercontent.com/34729547/197365832-42b987ea-a32a-4191-8b19-fe73a8809ec2.png)
 
 A predictable relationship exists between the lagged search traffic and the stock volatility as well as stock price returns.
+
 ![image](https://user-images.githubusercontent.com/34729547/197365914-58a4482f-6624-4b3d-8f91-e86b400295f2.png)
+
 
 The best time of day for MercadoLibre is midnight.
 ![image](https://user-images.githubusercontent.com/34729547/197365978-1edbb05b-7dcd-4705-a8dd-2148ddac83be.png)
